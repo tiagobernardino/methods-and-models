@@ -1,6 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Stochastic neoclassical growth model (using log-linear method)
-% based on Pedro Brinca's code
+% Stochastic neoclassical growth model (using log-linear perturbation method)
 % Tiago Bernardino, IIES
 % August, 2021
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
